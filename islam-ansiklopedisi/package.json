@@ -1,0 +1,24 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "islam-ansiklopedisi",
+  "title": "TDV İslâm Ansiklopedisi",
+  "description": "TDV İslâm Ansiklopedisi'nde arar, maddenin tam metnini gösterir ve İSNAD 2'ye göre atıf kopyalar.",
+  "icon": "icon.png",
+  "author": "fikhiefendi",
+  "license": "MIT",
+  "platforms": ["macOS"],
+  "categories": ["Productivity", "Documentation"],
+  "commands": [
+    {
+      "name": "search",
+      "title": "İslâm Ansiklopedisi'nde Ara",
+      "subtitle": "TDV İslâm Ansiklopedisi",
+      "description": "Madde ara, tam metni oku, İSNAD 2 atfı kopyala.",
+      "keywords": ["dia", "tdv", "islam", "ansiklopedi", "madde", "isnad"],
+      "mode": "view"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.80.0"
+  }
+}
