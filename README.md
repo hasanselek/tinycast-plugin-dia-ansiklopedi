@@ -28,7 +28,7 @@ Bütün atıfların (dipnot, kaynakça, matbu nüsha) sonuna maddenin bağlantı
 
 ## İnternetsiz kullanım
 
-Açtığınız her madde bu Mac'e kaydedilir (madde başına 30-50 KB). Siteye ulaşılamadığında:
+Açtığınız her madde Macbook'unuza kaydedilir (madde başına 30-50 KB). Siteye ulaşılamadığında:
 
 - Arama, kaydedilmiş maddelerde yapılır; liste başlığında "İnternetsiz: kaydedilmiş maddeler" yazar. Başlık araması başlık ve tanımda, İçerik araması tam metinde arar. Kelimeler başından eşleşir: "illet" "illeti"yi bulur, "millet"i bulmaz.
 - Madde kaydedilmiş kopyadan açılır; üstte kaydedildiği tarih yazar.
